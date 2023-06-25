@@ -7,16 +7,16 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94767973826'] //ur owner number
+global.ownername = "MR Sithum Ofc" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
+global.botname = '💃Queen-Nilu💃 //ur bot name
 global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
-global.OWNER_REACT = '🥀' //Owner's Messages react emoji
+global.OWNER_REACT = '💃' //Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
 
 
@@ -58,15 +58,15 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 
 //SEX_VIDEO_DOWNLOAD
-global.SEX_VIDEO_DOWNLOAD ='true'
+global.SEX_VIDEO_DOWNLOAD ='false'
 
 //Kick Message 
 global.KICK_MSG = ' ' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
+global.ytname = "YT: google" //ur yt chanel name
+global.socialm = "GitHub: Sithum Eshan //ur github or insta name
+global.linkz = "http://wa.me/+94767973826?text=හායි" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
 
